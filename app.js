@@ -3,7 +3,7 @@ let input = document.getElementById("typing-area");
 let send_button = document.getElementById("send");
 
 let botReplies = [
-    "Hello Sachin.",
+    "Hello.",
     "Main badhiya tum Kaise ho?",
     "Kya kar rahe ho?",
     "Acha",
